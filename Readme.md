@@ -23,7 +23,7 @@ Make sure you have Node.js and npm installed on your computer. You'll also need 
 
 ```bash
 
-   cd newsletter-signup
+   cd backend-signup
 
 
 ```
@@ -51,7 +51,7 @@ To start the development server and run the application, use the following comma
 
 <div align="center">
 
-   <img src="images/image3/.png"/>
+   <img src="public/images/image3/.png"/>
 
 </div>
 
@@ -61,7 +61,7 @@ To start the development server and run the application, use the following comma
 
 <div align="center">
 
-   <img src="images/image2/.png"/>
+   <img src="public/images/image2/.png"/>
 
 </div>
 
@@ -69,7 +69,7 @@ To start the development server and run the application, use the following comma
 
 <div align="center">
 
-   <img src="images/image1/.png"/>
+   <img src="public/images/image1/.png"/>
 
 </div>
 
