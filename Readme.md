@@ -61,6 +61,8 @@ You will see Signup page
 
 </div>
 
+![sign up](images/image3.png)
+
 ## Building for Production
 
 To create a production-ready build of the application, use the following command:
