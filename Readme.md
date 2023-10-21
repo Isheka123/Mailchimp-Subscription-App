@@ -48,8 +48,8 @@ To start the development server and run the application, use the following comma
 
 The application will be available at http://localhost:3000 in your web browser.
 You will see Signup page
-![sign up](/images/image.png)
-if you signup suc
+![sign up](/images/image3.png)
+
 <div align="center">
 
    <img src="/image2/.png"/>
