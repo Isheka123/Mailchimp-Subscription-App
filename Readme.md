@@ -48,20 +48,25 @@ To start the development server and run the application, use the following comma
 
 - Access the application at the root URL (e.g., http://localhost:3000) to sign up for the mailing list.
 - Fill in your first name, last name, and email address.
+
 <div align="center">
 
    <img src="/image3/.png"/>
 
 </div>
+
 - Submit the form to subscribe to the Mailchimp mailing list.
 - Handling Success and Failure
 - Upon a successful subscription, users will be redirected to the success.html page.
+
 <div align="center">
 
    <img src="/image2/.png"/>
 
 </div>
+
 - In case of a failure, users will be redirected to the failure.html page.
+
 <div align="center">
 
    <img src="/image1/.png"/>
