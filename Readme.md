@@ -51,7 +51,7 @@ To start the development server and run the application, use the following comma
 
 <div align="center">
 
-   <img src="/image3/.png"/>
+   <img src="images/image3/.png"/>
 
 </div>
 
@@ -61,7 +61,7 @@ To start the development server and run the application, use the following comma
 
 <div align="center">
 
-   <img src="/image2/.png"/>
+   <img src="images/image2/.png"/>
 
 </div>
 
@@ -69,7 +69,7 @@ To start the development server and run the application, use the following comma
 
 <div align="center">
 
-   <img src="/image1/.png"/>
+   <img src="images/image1/.png"/>
 
 </div>
 
