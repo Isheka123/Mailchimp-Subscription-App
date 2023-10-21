@@ -46,43 +46,27 @@ To start the development server and run the application, use the following comma
 
 ```
 
-The application will be available at http://localhost:3000 in your web browser.
-You will see Signup page
-![sign up](image1.png)
+- Access the application at the root URL (e.g., http://localhost:3000) to sign up for the mailing list.
+- Fill in your first name, last name, and email address.
+<div align="center">
 
+   <img src="/image3/.png"/>
+
+</div>
+- Submit the form to subscribe to the Mailchimp mailing list.
+- Handling Success and Failure
+- Upon a successful subscription, users will be redirected to the success.html page.
 <div align="center">
 
    <img src="/image2/.png"/>
 
 </div>
+- In case of a failure, users will be redirected to the failure.html page.
 <div align="center">
 
-   <img src="/image13/.png"/>
+   <img src="/image1/.png"/>
 
 </div>
-
-![sign up](images/image3.png)
-
-## Building for Production
-
-To create a production-ready build of the application, use the following command:
-
-```bash
-
-   npm run build
-
-```
-
-The optimized production build will be available in the build directory.
-
-## Features
-
-This is a simplified CodePen clone and may not have all the features of the original CodePen. You can add and enhance features as per your requirements.
-
-## Built With
-
-React - A JavaScript library for building user interfaces.
-Material-UI - A popular React UI framework.
 
 ## Contributing
 
@@ -90,5 +74,5 @@ Feel free to contribute to this project if you'd like to add more features or im
 
 ## Acknowledgments
 
-CodePen for the inspiration.
+Thank you for using this Mailchimp Subscription App! Enjoy collecting subscribers and managing your mailing list.
 Happy coding!
